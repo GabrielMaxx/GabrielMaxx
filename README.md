@@ -94,7 +94,6 @@ Estou determinado a alavancar minha carreira profissional, combinando-as com meu
 
 ### 📊 Estatísticas
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -110,6 +109,4 @@ Estou determinado a alavancar minha carreira profissional, combinando-as com meu
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMaxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
   />
-
-</p>
 
